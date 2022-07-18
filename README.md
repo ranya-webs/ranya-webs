@@ -7,7 +7,6 @@
 - ⚡ Fun fact: ...
 - 👯 I’m looking to collaborate on 
 -->
-Here are some ideas to get you started:
 - 😄 Pronouns: She/Her
 - 🌱 I’m currently learning HTML & CSS.
 - 🔭 I’m currently building static websites with HTML & CSS.
