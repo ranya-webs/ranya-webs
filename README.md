@@ -11,5 +11,5 @@
 - 🌱 I’m currently learning HTML & CSS.
 - 🔭 I’m currently building static websites with HTML & CSS.
 - 🤔 I’m looking for help with front-end web development.
-- ⚡ Fun fact: I like to draw.
-
+- 🌟 Hobbies: Drawing, Painting, Calligraphy.
+- ⚡ Fun fact: I started looking at people's teeth instead of their faces since I got into dental school.
