@@ -8,8 +8,8 @@
 - 👯 I’m looking to collaborate on 
 -->
 - 😄 Pronouns: She/Her
-- 🌱 I’m currently learning HTML & CSS.
-- 🔭 I’m currently building static websites with HTML & CSS.
-- 🤔 I’m looking for help with front-end web development.
-- 🌟 Hobbies: Drawing, Painting, Calligraphy.
+- 🌱 I’m currently learning R & Python.
+- 🔭 I want to start a career in computational biology/bioinformatics. 
+- 🤔 I’m looking for help with bioinformatics.
+- 🌟 Hobbies: Drawing, Painting, Calligraphy, Walking :)
 - ⚡ Fun fact: I started looking at people's teeth instead of their faces since I got into dental school.
